@@ -1,16 +1,9 @@
 # quizui
 
-A new Flutter project.
+Different Quiz UI Implementation in flutter
+**ONLY QUIZ SCREEN UI IS IMPLEMENTED**
 
-## Getting Started
+## Implemented Quizzes
 
-This project is a starting point for a Flutter application.
+1.https://assets.materialup.com/uploads/d6caaaf9-44d3-4035-9ee4-5ba5130211e0/preview.png
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
