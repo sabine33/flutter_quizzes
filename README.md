@@ -5,5 +5,5 @@ Different Quiz UI Implementation in flutter
 
 ## Implemented Quizzes
 
-1.https://assets.materialup.com/uploads/d6caaaf9-44d3-4035-9ee4-5ba5130211e0/preview.png
+![First Quiz](https://assets.materialup.com/uploads/d6caaaf9-44d3-4035-9ee4-5ba5130211e0/preview.png)
 
