@@ -1,4 +1,4 @@
-# quizui
+# Quiz UI
 
 Different Quiz UI Implementation in flutter
 **ONLY QUIZ SCREEN UI IS IMPLEMENTED**
